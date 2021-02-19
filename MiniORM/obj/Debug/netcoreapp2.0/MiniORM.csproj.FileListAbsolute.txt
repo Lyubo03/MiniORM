@@ -1,0 +1,9 @@
+C:\Users\lubos\Desktop\New folder\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\lubos\Desktop\New folder\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\lubos\Desktop\New folder\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\lubos\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\lubos\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\lubos\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\lubos\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\lubos\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\lubos\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
